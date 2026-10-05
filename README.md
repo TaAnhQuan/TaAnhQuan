@@ -1,4 +1,4 @@
-## Hi 👋, I'm Quan
+## 👋Hi, I'm Quan
 
 I am open to:
 - Remote role opportunities
