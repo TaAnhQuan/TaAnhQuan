@@ -1,7 +1,7 @@
 ## 👋Hi, I'm Quan
 
 I am open to:
-- Remote role opportunities
+- Remote/On-site role opportunities
 - Collobration work
 - Software development projects
 <h3 align="left">🚀 Languages & Frameworks</h3>
